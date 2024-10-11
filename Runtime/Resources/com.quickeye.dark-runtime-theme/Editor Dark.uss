@@ -455,7 +455,7 @@
 }
 
 .unity-base-field__label--with-dragger {
-    cursor: slide-arrow;
+    /* cursor: slide-arrow; */
 }
 
 .unity-property-field > .unity-imgui-container {
@@ -826,12 +826,12 @@
 }
 
 .unity-min-max-slider__min-thumb {
-    cursor: resize-horizontal;
+    /* cursor: resize-horizontal; */
     position: absolute;
 }
 
 .unity-min-max-slider__max-thumb {
-    cursor: resize-horizontal;
+    /* cursor: resize-horizontal; */
     position: absolute;
 }
 
@@ -1484,7 +1484,7 @@
     padding-right: 2px;
     padding-top: 1px;
     padding-bottom: 0;
-    cursor: text;
+    /* cursor: text; */
     -unity-overflow-clip-box: content-box;
     flex: 1 1 auto;
     background-color: rgb(42, 42, 42);
@@ -1585,7 +1585,7 @@
     left: -5px;
     top: 0px;
     bottom: 0px;
-    cursor: resize-horizontal;
+    /* cursor: resize-horizontal; */
 }
 
 .unity-two-pane-split-view__dragline--vertical {
@@ -1593,7 +1593,7 @@
     top: -5px;
     left: 0px;
     right: 0px;
-    cursor: resize-vertical;
+    /* cursor: resize-vertical; */
 }
 
 .unity-two-pane-split-view__dragline-anchor {
@@ -2012,7 +2012,7 @@
     width: 10px;
     margin-left: -5px;
     flex-grow: 1;
-    cursor: resize-horizontal;
+    /* cursor: resize-horizontal; */
 }
 
 .unity-multi-column-header__column {
@@ -2297,7 +2297,7 @@
 }
 
 .unity-property-control__dragger {
-    cursor: slide-arrow;
+    /* cursor: slide-arrow; */
 }
 
 .unity-property-control__label {
